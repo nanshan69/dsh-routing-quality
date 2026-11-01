@@ -1,0 +1,7 @@
+{
+  "contributes": {
+    "commands": [
+      "routing_quality_check"
+    ]
+  }
+}
